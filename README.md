@@ -16,4 +16,4 @@
 ```
 2. 分别启动两个实例部署在8080（/app1）和8081(/app2)端口
 3. 在浏览器中localhost:8080/app1/add/123/abc
-4. 使用app1的Cookie去app2中访问localhost:8081/app2/get/123可看到在app1的Session中保存的值
+4. 使用app1的Cookie去app2中访问localhost:8081/app2/get/123可看到在app1的Session中保存的值
